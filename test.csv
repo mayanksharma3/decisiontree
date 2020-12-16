@@ -1,0 +1,11 @@
+Quality, Brand, Price, Review, Buy
+High, Famous, Normal, Bad, Yes
+Poor,Famous,Normal,Bad,No
+High,Mainstream,Expensive,Good,No
+Poor,Mainstream,Normal,Good,No
+Standard,Mainstream,Normal,Good,Yes
+Standard,Unknown,Expensive,Good,Yes
+Standard,Mainstream,Normal,Bad,No
+High,Mainstream,Normal,Good,Yes
+Poor,Famous,Expensive,Bad,No
+Standard,Mainstream,Normal,Good,Yes
